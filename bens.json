@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "item":"Betoneira",
+        "local":"",
+        "data":"2026-09-17",
+        "valor": 2500, 
+        "patrimoniio": "PT000"
+    },
+    {
+        "id":2,
+        "item":"Caneta cubográfica",
+        "local":"Cubo's Network",
+        "data":"2026-02-10",
+        "valor":500, 
+        "patrimoniio": "PT001"
+    },
+    {
+        "id":3,
+        "item":"Canhão de plasma",
+        "local":"Estrela da morte",
+        "data":"2026-06-21",
+        "valor":1500000, 
+        "patrimoniio": "PT002"
+    }
+]

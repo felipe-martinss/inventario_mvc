@@ -1,0 +1,26 @@
+{
+  "name": "inventario_mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipe-martinss/inventario_mvc.git"
+  },
+  "keywords": [],
+  "author": "felipe-martinss",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/felipe-martinss/inventario_mvc/issues"
+  },
+  "homepage": "https://github.com/felipe-martinss/inventario_mvc#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}

@@ -1,11 +1,11 @@
 [
     {
-        "id":1,
+         "id":1,
         "item":"Betoneira",
         "local":"Terreno de obra",
         "data":"2026-09-17",
         "valor": 5500, 
-        "patrimoniio": "PT000"
+        "patrimonio": "PT123"
     },
     {
         "id":2,
@@ -13,14 +13,14 @@
         "local":"Cubo's Network",
         "data":"2026-02-10",
         "valor":500, 
-        "patrimoniio": "PT001"
+        "patrimonio": "PT000"
     },
     {
         "id":3,
         "item":"Canhão de plasma",
         "local":"Estrela da morte",
         "data":"2026-06-21",
-        "valor":1500000, 
-        "patrimoniio": "PT002"
+        "valor":150000, 
+        "patrimonio": "PT111"
     }
 ]
